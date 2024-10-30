@@ -1,0 +1,9 @@
+table{
+    margin: auto;
+    margin-top: 1.5rem;
+}
+
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
